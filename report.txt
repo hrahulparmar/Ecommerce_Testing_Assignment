@@ -1,0 +1,146 @@
+Jun 25, 2025 8:49:08 PM tests.BaseTest setup
+INFO: Browser started
+Jun 25, 2025 8:49:11 PM tests.BaseTest setup
+INFO: navigated to  https://automationteststore.com/
+Jun 25, 2025 8:49:12 PM tests.HomepageVerificationTest printAllCategory
+INFO: Printed all categories
+Jun 25, 2025 8:49:13 PM tests.HomepageVerificationTest printAllCategory
+INFO: Visible Products count 6
+Jun 25, 2025 8:49:13 PM utils.EventListenerUtility onTestSuccess
+INFO: printAllCategory got successfully executed
+Jun 25, 2025 8:49:13 PM tests.BaseTest tearDown
+INFO: Browser Closed
+Jun 25, 2025 8:49:14 PM tests.BaseTest setup
+INFO: Browser started
+Jun 25, 2025 8:49:17 PM tests.BaseTest setup
+INFO: navigated to  https://automationteststore.com/
+Jun 25, 2025 8:49:20 PM pages.HomePage selectProductToAdd
+INFO: Product Name Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie
+Jun 25, 2025 8:49:20 PM pages.HomePage selectProductToAdd
+INFO: Product Price $32.00
+Jun 25, 2025 8:49:20 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:49:20 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=121
+Jun 25, 2025 8:49:23 PM tests.ProductSelectionTest selectAddProductToCart
+INFO: Cart Products Added
+Jun 25, 2025 8:49:26 PM pages.HomePage selectProductToAdd
+INFO: Product Name Fiorella Purple Peep Toes
+Jun 25, 2025 8:49:26 PM pages.HomePage selectProductToAdd
+INFO: Product Price $110.00
+Jun 25, 2025 8:49:26 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:49:26 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=115
+Jun 25, 2025 8:49:28 PM tests.ProductSelectionTest selectAddProductToCart
+INFO: Cart Products Added
+Jun 25, 2025 8:49:28 PM tests.ProductSelectionTest selectAddProductToCart
+INFO: Cart Products count 2
+Jun 25, 2025 8:49:28 PM utils.EventListenerUtility onTestSuccess
+INFO: selectAddProductToCart got successfully executed
+Jun 25, 2025 8:49:28 PM tests.BaseTest tearDown
+INFO: Browser Closed
+Jun 25, 2025 8:49:29 PM tests.BaseTest setup
+INFO: Browser started
+Jun 25, 2025 8:49:33 PM tests.BaseTest setup
+INFO: navigated to  https://automationteststore.com/
+Jun 25, 2025 8:49:36 PM pages.HomePage selectProductToAdd
+INFO: Product Name Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie
+Jun 25, 2025 8:49:36 PM pages.HomePage selectProductToAdd
+INFO: Product Price $32.00
+Jun 25, 2025 8:49:36 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:49:36 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=121
+Jun 25, 2025 8:49:37 PM tests.CheckoutTest verifyCheckoutFlow
+INFO: Cart Products Added
+Jun 25, 2025 8:49:41 PM pages.HomePage selectProductToAdd
+INFO: Product Name Fiorella Purple Peep Toes
+Jun 25, 2025 8:49:41 PM pages.HomePage selectProductToAdd
+INFO: Product Price $110.00
+Jun 25, 2025 8:49:41 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:49:41 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=115
+Jun 25, 2025 8:49:43 PM tests.CheckoutTest verifyCheckoutFlow
+INFO: Cart Products Added
+Jun 25, 2025 8:49:43 PM tests.CheckoutTest verifyCheckoutFlow
+INFO: First Product Price 32.0
+Jun 25, 2025 8:49:43 PM tests.CheckoutTest verifyCheckoutFlow
+INFO: Second Product Price 110.0
+Jun 25, 2025 8:49:43 PM tests.CheckoutTest verifyCheckoutFlow
+INFO: Flat shipping rate 2
+Jun 25, 2025 8:49:43 PM tests.CheckoutTest verifyCheckoutFlow
+INFO: Actual Total Displayed 144.0
+Jun 25, 2025 8:49:43 PM utils.EventListenerUtility onTestSuccess
+INFO: verifyCheckoutFlow got successfully executed
+Jun 25, 2025 8:49:43 PM tests.BaseTest tearDown
+INFO: Browser Closed
+Jun 25, 2025 8:49:44 PM tests.BaseTest setup
+INFO: Browser started
+Jun 25, 2025 8:49:47 PM tests.BaseTest setup
+INFO: navigated to  https://automationteststore.com/
+Jun 25, 2025 8:49:50 PM pages.HomePage selectProductToAdd
+INFO: Product Name Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie
+Jun 25, 2025 8:49:50 PM pages.HomePage selectProductToAdd
+INFO: Product Price $32.00
+Jun 25, 2025 8:49:50 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:49:50 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=121
+Jun 25, 2025 8:49:52 PM tests.UserRegistrationTest userRegisterPositive
+INFO: Cart Products Added
+Jun 25, 2025 8:49:56 PM pages.HomePage selectProductToAdd
+INFO: Product Name Fiorella Purple Peep Toes
+Jun 25, 2025 8:49:56 PM pages.HomePage selectProductToAdd
+INFO: Product Price $110.00
+Jun 25, 2025 8:49:56 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:49:56 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=115
+Jun 25, 2025 8:49:57 PM tests.UserRegistrationTest userRegisterPositive
+INFO: Cart Products Added
+Jun 25, 2025 8:49:57 PM tests.UserRegistrationTest userRegisterPositive
+INFO: First Product Price 32.0
+Jun 25, 2025 8:49:57 PM tests.UserRegistrationTest userRegisterPositive
+INFO: One Product Price 110.0
+Jun 25, 2025 8:49:57 PM tests.UserRegistrationTest userRegisterPositive
+INFO: Flat shipping rate 2
+Jun 25, 2025 8:49:57 PM tests.UserRegistrationTest userRegisterPositive
+INFO: Actual Total Displayed 144.0
+Jun 25, 2025 8:50:07 PM tests.UserRegistrationTest userRegisterPositive
+INFO: User Registeration Done 
+Jun 25, 2025 8:50:07 PM utils.EventListenerUtility onTestSuccess
+INFO: userRegisterPositive got successfully executed
+Jun 25, 2025 8:50:07 PM tests.BaseTest tearDown
+INFO: Browser Closed
+Jun 25, 2025 8:50:08 PM tests.BaseTest setup
+INFO: Browser started
+Jun 25, 2025 8:50:09 PM tests.BaseTest setup
+INFO: navigated to  https://automationteststore.com/
+Jun 25, 2025 8:50:15 PM pages.HomePage selectProductToAdd
+INFO: Product Name Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie
+Jun 25, 2025 8:50:15 PM pages.HomePage selectProductToAdd
+INFO: Product Price $32.00
+Jun 25, 2025 8:50:15 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:50:15 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=121
+Jun 25, 2025 8:50:17 PM tests.UserRegisterNegativeTest UserRegisterNegative
+INFO: Cart Products Added
+Jun 25, 2025 8:50:22 PM pages.HomePage selectProductToAdd
+INFO: Product Name Fiorella Purple Peep Toes
+Jun 25, 2025 8:50:22 PM pages.HomePage selectProductToAdd
+INFO: Product Price $110.00
+Jun 25, 2025 8:50:22 PM pages.HomePage selectProductToAdd
+INFO: Product Quantity 1
+Jun 25, 2025 8:50:22 PM pages.HomePage selectProductToAdd
+INFO: Product URL https://automationteststore.com/index.php?rt=product/product&product_id=115
+Jun 25, 2025 8:50:29 PM tests.UserRegisterNegativeTest UserRegisterNegative
+WARNING: User Registeration failed 
+Jun 25, 2025 8:50:29 PM utils.EventListenerUtility onTestFailure
+SEVERE: UserRegisterNegative got failed
+Jun 25, 2025 8:50:29 PM utils.EventListenerUtility onTestFailure
+INFO: expected [CHECKOUT CONFIRMATION] but found [CREATE ACCOUNT]
+Jun 25, 2025 8:50:29 PM tests.BaseTest tearDown
+INFO: Browser Closed
